@@ -1,11 +1,11 @@
-## Nizzypedia's Sieve of Eratosthenes
+## Nizzypedia's Sieve of Eratosthenes | my_prime_library
 
-Welcome to Nizzypedia's Sieve of Eratosthenes – a Python library for efficient prime number generation.
+Welcome to Nizzypedia's Sieve of Eratosthenes  my_prime_library– a Python library for efficient prime number generation.
 
 
 ### Get Started:
 
-1. Install the library: pip install sieve_of_eratosthenes
+1. Install the library: pip install my_prime_library
 2. Use the example code to generate prime numbers.
 
 ### Features:
@@ -18,16 +18,16 @@ Welcome to Nizzypedia's Sieve of Eratosthenes – a Python library for efficient
 
 ### Installation:
 ```bash
-pip install sieve_of_eratosthenes
+pip install my_prime_library
 ```
 
 ### Example Usage:
 ```bash
-from sieve_of_eratosthenes import sieve_of_eratosthenes
+from my_prime_library.sieve import sieve_of_eratosthenes
 
 primes_up_to_30 = sieve_of_eratosthenes(30)
 print("Prime numbers up to 30:", primes_up_to_30)
 ```
 
 
-#### GitHub Repository: [Sieve of Eratosthenes Algo By Nizzypedia ]()
+#### GitHub Repository: [Sieve of Eratosthenes Algo By Nizzypedia ](https://github.com/umairniaziofficial/Sieve-of-Eratosthenes.git)
