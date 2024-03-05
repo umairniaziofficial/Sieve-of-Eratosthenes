@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 setup(
     name='my_prime_library',
-    version='0.02',  
+    version='0.021',  
     packages=find_packages(),
     install_requires=[],
     entry_points={

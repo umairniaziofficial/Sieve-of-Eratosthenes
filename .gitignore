@@ -1,0 +1,13 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+
+# Distribution
+build/
+dist/
+my_prime_library.egg-info/
