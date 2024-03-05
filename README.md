@@ -30,4 +30,4 @@ print("Prime numbers up to 30:", primes_up_to_30)
 ```
 
 
-## GitHub Repository: [Sieve of Eratosthenes Algo By Nizzypedia ]()
+#### GitHub Repository: [Sieve of Eratosthenes Algo By Nizzypedia ]()
